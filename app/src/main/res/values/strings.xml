@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">YumnaAli_task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_main_view">fragment_main_view</string>
+    <string name="fragment_detail_view">detailViewFragment</string>
+    <string name="text_movies">Movies</string>
+    <string name="dummy_text">lorem ipsum</string>
+    <string name="on_my_watchlist">ON MY WATCHLIST</string>
+    <string name="btn_add_to_watchlist">+Add to watchlist</string>
+    <string name="btn_watch_trailer">Watch Trailer</string>
+    <string name="tv_short_description">Short description</string>
+    <string name="tv_details">Details</string>
+    <string name="genre">Genre</string>
+    <string name="released_date">Released Date</string>
+    <string name="sort">Sort</string>
+    <string name="title">Title</string>
+    <string name="cancel">Cancel</string>
+</resources>
